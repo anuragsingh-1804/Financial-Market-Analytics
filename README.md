@@ -34,10 +34,15 @@ The Financial Market Analytical Dashboard is a comprehensive data visualization 
 # Technologies Used
 
 •	Python (Core logic and data processing)
-•	Tkinter (Graphical User Interface)
-•	CustomTkinter (ctk) (Modern UI components)
-•	Matplotlib (Interactive and colorful chart visualizations)
-•	Pandas (Data wrangling and manipulation)
-•	NumPy (Efficient numerical operations)
-• yFinance (Real-time stock data API)
 
+•	Tkinter (Graphical User Interface)
+
+•	CustomTkinter (ctk) (Modern UI components)
+
+•	Matplotlib (Interactive and colorful chart visualizations)
+
+•	Pandas (Data wrangling and manipulation)
+
+•	NumPy (Efficient numerical operations)
+
+• yFinance (Real-time stock data API)

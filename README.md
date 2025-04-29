@@ -1,4 +1,4 @@
-# Financial-Market-Analytics
+# Financial-Market-Analysis
 # Project Overview
 
 The Financial Market Analytical Dashboard is a comprehensive data visualization and analytics platform for tracking and analyzing stock market performance. It offers interactive insights into stock prices, trading volume, returns, and profit/loss trends across multiple timeframes. Built for investors, traders, analysts, and students, the dashboard provides both a standard and technical view of the financial market, enabling users to make informed decisions with real-time data and engaging visuals.
